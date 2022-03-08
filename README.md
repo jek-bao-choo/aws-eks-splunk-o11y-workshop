@@ -111,7 +111,7 @@ unzip master.zip
 ---
 
 ```bash
-mv imt-workshop-master workshop
+mv observability-workshop-master workshop
 ```
 
 ## Congratulations
