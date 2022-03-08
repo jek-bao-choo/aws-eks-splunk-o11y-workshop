@@ -23,7 +23,7 @@ Select AWS Console
 
 ## Step 4
 
-Remember to only use "ap-southeast-1" as your region
+Remember to only use "us-west-2" as your region
 ![EKS Region](eks-region.png "EKS Region")
 
 ## Step 5
