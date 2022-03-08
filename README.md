@@ -1,7 +1,7 @@
 # 12 Steps
 
 ## Recommendation
-You are recommended to use Firefox browser because you could easily copy and paste.
+Try using Firefox browser because you can copy and paste.
 
 ##  Step 1
 Go to AWS Event Engine at https://dashboard.eventengine.run/login 
@@ -23,7 +23,7 @@ Select AWS Console
 
 ## Step 4
 
-Remeber to only use "ap-southeast-1" as your region
+Remember to only use "ap-southeast-1" as your region
 ![EKS Region](eks-region.png "EKS Region")
 
 ## Step 5
@@ -38,7 +38,7 @@ Now select SplunkWorkshop instance and select connect
 
 ## Step 7
 
-Remeber to only use "ap-southeast-1" as your region
+Remember to only use "ap-southeast-1" as your region
 ![EKS Region](eks-region.png "EKS Region")
 
 ## Step 8
@@ -97,4 +97,4 @@ mv imt-workshop-master workshop
 ```
 
 ## Congratulations
-You have setup your AWS EKS cluster with the resources required for Splunk O11y workshop. Let us get started with the workshop at https://signalfx.github.io/observability-workshop/ 
+You have completed your AWS EKS cluster setup with the resources for Splunk O11y workshop. Let us get started with the workshop at https://signalfx.github.io/observability-workshop/ 
