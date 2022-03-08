@@ -152,8 +152,12 @@ You have achieved a great deal. These are what you have achieved:
 - Downloaded the workshop resources
 - Signed in to Splunk Observability 
 
+---
+
 ## Next steps
 Take a break; you earned it! 
 
-After the break, let us see the value of Splunk Observability by going to 
-https://signalfx.github.io/observability-workshop/v3.14/otel/k3s/
+After the break, let us see the value of Splunk Observability with the following hands-on activity
+![Splunk Workshop Content](splunk-workshop-content.png "splunk workshop content")
+
+### Get started with the next steps after your break at https://signalfx.github.io/observability-workshop/v3.14/otel/k3s/
