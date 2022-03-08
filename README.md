@@ -142,6 +142,10 @@ Select Access Tokens
 ![Access Token](access-token.png "access token")
 
 
+Show token 
+![Show Token](show-token.png "show token")
+
+
 # ***Hooray!***
 You have achieved a great deal. These are what you have achieved:
 - Signed in to AWS EKS
