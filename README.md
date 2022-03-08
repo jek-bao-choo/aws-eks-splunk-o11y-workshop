@@ -143,12 +143,13 @@ Select Access Tokens
 
 
 # ***Hooray!***
-You have achieved a great deal.
+You have achieved a great deal. These are what you have achieved:
 - Sign in to AWS EKS
 - Set up the workshop resources
 - Sign in Splunk Observability 
 
-
+## Next steps
 Take a break; you earned it! 
+
 After the break, let us see the value of Splunk Observability by going to 
 https://signalfx.github.io/observability-workshop/v3.14/otel/k3s/
