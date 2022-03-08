@@ -155,7 +155,7 @@ You have achieved a great deal. These are what you have achieved:
 ---
 
 ## Next steps
-Take a 7 minutes break; you earned it! 
+Take a 10 minutes break; you earned it! 
 
 After the break, let us see the value of Splunk Observability with the following hands-on activity
 ![Splunk Workshop Content](splunk-workshop-content.png "splunk workshop content")
