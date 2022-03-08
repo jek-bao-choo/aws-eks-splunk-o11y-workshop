@@ -144,9 +144,9 @@ Select Access Tokens
 
 # ***Hooray!***
 You have achieved a great deal. These are what you have achieved:
-- Sign in to AWS EKS
-- Set up the workshop resources
-- Sign in Splunk Observability 
+- Signed in to AWS EKS
+- Downloaded the workshop resources
+- Signed in to Splunk Observability 
 
 ## Next steps
 Take a break; you earned it! 
