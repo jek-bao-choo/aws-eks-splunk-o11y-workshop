@@ -1,8 +1,5 @@
 # 14 Steps
 
-## Recommendation
-Try using Firefox browser because you can copy and paste.
-
 ##  Step 1
 Go to AWS Event Engine at https://dashboard.eventengine.run/login 
 
@@ -89,6 +86,11 @@ curl -fsSL -o get_helm.sh https://raw.githubusercontent.com/helm/helm/master/scr
 
 ```bash
 chmod 700 get_helm.sh
+```
+
+---
+
+```bash
 ./get_helm.sh
 ```
 
