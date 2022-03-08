@@ -115,4 +115,4 @@ mv observability-workshop-master workshop
 ```
 
 ## Congratulations
-You have completed your AWS EKS cluster setup with the resources for Splunk O11y workshop. Let us get started with the workshop at https://signalfx.github.io/observability-workshop/ 
+You have completed your AWS EKS cluster setup with the resources for Splunk O11y workshop. Let us get started with the workshop at https://signalfx.github.io/observability-workshop/v3.14/otel/k3s/
