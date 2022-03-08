@@ -1,4 +1,4 @@
-# 14 Steps
+# 18 Steps
 
 ##  Step 1
 Go to AWS Event Engine at https://dashboard.eventengine.run/login 
@@ -114,7 +114,7 @@ unzip master.zip
 mv observability-workshop-master workshop
 ```
 
-# Congratulations
+# ***Congratulations***
 You have completed your AWS EKS cluster setup with the resources for Splunk O11y workshop. Let us get started with the workshop by accessing Splunk O11y portal. 
 
 ## Step 15
@@ -125,7 +125,7 @@ Access your Splunk O11y portal by going to your email account. We have triggered
 
 ## Step 16
 
-Once sign in to Splunk O11y portal, expand the side nav. 
+Once signed in to Splunk O11y portal, expand the side nav. 
 
 ![Expand Sidenav](expand-side-nav.png "expand side nav")
 
@@ -139,11 +139,11 @@ Select Settings
 
 Select Access Tokens
 
-![Access Token](access-token.png "access tokent")
+![Access Token](access-token.png "access token")
 
 
-# Hooray!
-You have achieve a great deal.
+# ***Hooray!***
+You have achieved a great deal.
 - Sign in to AWS EKS
 - Set up the workshop resources
 - Sign in Splunk Observability 
