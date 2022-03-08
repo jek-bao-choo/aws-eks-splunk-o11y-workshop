@@ -1,4 +1,4 @@
-# 12 Steps
+# 14 Steps
 
 ## Recommendation
 Try using Firefox browser because you can copy and paste.
@@ -43,20 +43,30 @@ Remember to only use "ap-southeast-1" as your region
 
 ## Step 8
 
-Verify EKS cluster¶
-Select EC2 Instance Connect tab and click connect. This will open an SSH session to the EC2 instance. Once the instance is opened check the running EKS cluster. You should see a cluster named
-```bash
-eksctl get cluster --region ap-southeast-1
-```
+Click Connect
+![EC2 Instance Connect](ec2-instance-connect.png "EC2 Instance Connect")
 
 ## Step 9
 
-Update Kubectl
-```bash
-aws eks --region ap-southeast-1 update-kubeconfig --name eksworkshop-eksctl
-```
+Verify that you see the terminal.
+
+![Browser Terminal](browser-terminal.png "Browser Terminal")
 
 ## Step 10
+
+Verify EKS cluster. Select EC2 Instance Connect tab and click connect. This will open an SSH session to the EC2 instance. Once the instance is opened check the running EKS cluster. You should see a cluster named
+```bash
+eksctl get cluster --region us-west-2
+```
+
+## Step 11
+
+Update Kubectl
+```bash
+aws eks --region us-west-2 update-kubeconfig --name eksworkshop-eksctl
+```
+
+## Step 12
 
 Test Kubectl
 ```bash
@@ -64,7 +74,7 @@ kubectl get nodes
 ```
 If we see our 2 nodes, we know we have authenticated correctly
 
-## Step 11
+## Step 13
 
 Install Helm 3
 ```bash
@@ -78,7 +88,7 @@ chmod 700 get_helm.sh
 ./get_helm.sh
 ```
 
-## Step 12
+## Step 14
 
 ```bash
 wget https://github.com/splunk/imt-workshop/archive/refs/heads/master.zip
