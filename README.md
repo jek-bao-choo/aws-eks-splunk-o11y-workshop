@@ -96,7 +96,7 @@ chmod 700 get_helm.sh
 
 ## Step 14
 
-Get Workshop content from Splunk Observability repor
+Get Workshop content from Splunk Observability repo
 
 ```bash
 wget https://github.com/signalfx/observability-workshop/archive/refs/heads/master.zip
@@ -114,5 +114,39 @@ unzip master.zip
 mv observability-workshop-master workshop
 ```
 
-## Congratulations
-You have completed your AWS EKS cluster setup with the resources for Splunk O11y workshop. Let us get started with the workshop at https://signalfx.github.io/observability-workshop/v3.14/otel/k3s/
+# Congratulations
+You have completed your AWS EKS cluster setup with the resources for Splunk O11y workshop. Let us get started with the workshop by accessing Splunk O11y portal. 
+
+## Step 15
+
+Access your Splunk O11y portal by going to your email account. We have triggered an invite. 
+
+![Email Invite](email-invite.png "email invite")
+
+## Step 16
+
+Once sign in to Splunk O11y portal, expand the side nav. 
+
+![Expand Sidenav](expand-side-nav.png "expand side nav")
+
+## Step 17
+
+Select Settings
+
+![Settings](settings.png "settings")
+
+## Step 18
+
+Select Access Tokens
+
+![Access Token](access-token.png "access tokent")
+
+
+# Hooray!
+You have achieve a great deal.
+- Sign in to AWS EKS
+- Set up the workshop resources
+- Sign in Splunk Observability 
+Take a break; you earned it! 
+After the break, let us see the value of Splunk Observability by going to 
+https://signalfx.github.io/observability-workshop/v3.14/otel/k3s/
