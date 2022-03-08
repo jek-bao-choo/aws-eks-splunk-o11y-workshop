@@ -10,7 +10,7 @@ Go to AWS Event Engine at https://dashboard.eventengine.run/login
 
 Please get the Event Hash from your workshop instructor.
 
-```basah
+```bash
 
 ```
 
@@ -18,7 +18,7 @@ Please get the Event Hash from your workshop instructor.
 
 Sign in (to AWS EKS environment) via Email OTP
 
-![Sign In Option](signoption.png "Sign In Option")
+![Sign In Option](sign-in-option.png "Sign In Option")
 
 ## Step 3
 
