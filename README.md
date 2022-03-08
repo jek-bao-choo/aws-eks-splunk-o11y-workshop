@@ -96,10 +96,10 @@ chmod 700 get_helm.sh
 
 ## Step 14
 
-Get Workshop content
+Get Workshop content from Splunk Observability repor
 
 ```bash
-wget https://github.com/splunk/imt-workshop/archive/refs/heads/master.zip
+wget https://github.com/signalfx/observability-workshop/archive/refs/heads/master.zip
 ```
 
 ---
