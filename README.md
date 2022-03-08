@@ -96,6 +96,8 @@ chmod 700 get_helm.sh
 
 ## Step 14
 
+Get Workshop content
+
 ```bash
 wget https://github.com/splunk/imt-workshop/archive/refs/heads/master.zip
 ```
