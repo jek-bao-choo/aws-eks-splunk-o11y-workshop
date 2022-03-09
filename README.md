@@ -8,7 +8,7 @@ Go to AWS Event Engine at https://dashboard.eventengine.run/login
 Please get the Event Hash from your workshop instructor.
 
 ```bash
-
+9bc4-1064967d54-cd
 ```
 
 ## Step 2
