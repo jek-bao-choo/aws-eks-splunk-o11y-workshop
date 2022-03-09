@@ -1,4 +1,4 @@
-# 18 Steps
+# 17 Steps
 
 ##  Step 1
 Go to AWS Event Engine at https://dashboard.eventengine.run/login 
@@ -39,35 +39,30 @@ Now select SplunkWorkshop instance and select connect
 
 ## Step 7
 
-Remember to only use "ap-southeast-1" as your region
-![EKS Region](eks-region.png "EKS Region")
-
-## Step 8
-
 Click Connect
 ![EC2 Instance Connect](ec2-instance-connect.png "EC2 Instance Connect")
 
-## Step 9
+## Step 8
 
 Verify that you see the terminal.
 
 ![Browser Terminal](browser-terminal.png "Browser Terminal")
 
-## Step 10
+## Step 9
 
 Verify EKS cluster. Select EC2 Instance Connect tab and click connect. This will open an SSH session to the EC2 instance. Once the instance is opened check the running EKS cluster. You should see a cluster named
 ```bash
 eksctl get cluster --region us-west-2
 ```
 
-## Step 11
+## Step 10
 
 Update Kubectl
 ```bash
 aws eks --region us-west-2 update-kubeconfig --name eksworkshop-eksctl
 ```
 
-## Step 12
+## Step 11
 
 Test Kubectl
 ```bash
@@ -75,7 +70,7 @@ kubectl get nodes
 ```
 If we see our 2 nodes, we know we have authenticated correctly
 
-## Step 13
+## Step 12
 
 Install Helm 3
 ```bash
@@ -94,7 +89,7 @@ chmod 700 get_helm.sh
 ./get_helm.sh
 ```
 
-## Step 14
+## Step 13
 
 Get Workshop content from Splunk Observability repo
 
@@ -117,25 +112,25 @@ mv observability-workshop-master workshop
 # ***Congratulations***
 You have completed your AWS EKS cluster setup with the resources for Splunk O11y workshop. Let us get started with the workshop by accessing Splunk O11y portal. 
 
-## Step 15
+## Step 14
 
 Access your Splunk O11y portal by going to your email account. We have triggered an invite. 
 
 ![Email Invite](email-invite.png "email invite")
 
-## Step 16
+## Step 15
 
 Once signed in to Splunk O11y portal, expand the side nav. 
 
 ![Expand Sidenav](expand-side-nav.png "expand side nav")
 
-## Step 17
+## Step 16
 
 Select Settings
 
 ![Settings](settings.png "settings")
 
-## Step 18
+## Step 17
 
 Select Access Tokens
 
